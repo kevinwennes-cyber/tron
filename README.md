@@ -55,7 +55,7 @@ By default the master log is at `C:\logs\tron\tron.log`. If you want to change t
 
 Depending how badly the system is infected, it could take anywhere from 3 to 10 hours to run. I've personally observed times between 4-8 hours, and one user reported a run time of 30 hours. Basically set it and forget it.
 
-If you run with the `-udl` switch, it will automatically email me the run logs at the end of the script. Not required but greatly appreciated if you can.
+If you run with the `-udl` (upload dev logs) switch, it will automatically email me the run logs at the end of the script. Not required but greatly appreciated if you can.
 
 NOTE: Each sub-stage script (e.g. `stage_2_de-bloat.bat`) can be run individually apart from Tron. Just remember to run them as Administrator if you go this route.
 
